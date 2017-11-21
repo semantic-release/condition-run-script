@@ -1,5 +1,7 @@
 # semantic-release condition-run-script
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/semantic-release/condition-run-script.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/%40semantic-release%2Fcondition-run-script.svg)](http://badge.fury.io/js/%40semantic-release%2Fcondition-run-script)
 [![Build Status](https://travis-ci.org/semantic-release/condition-run-script.svg?branch=next)](https://travis-ci.org/semantic-release/condition-run-script)
 [![Coverage Status](https://coveralls.io/repos/semantic-release/condition-run-script/badge.svg?branch=next&service=github)](https://coveralls.io/github/semantic-release/condition-run-script?branch=next)
